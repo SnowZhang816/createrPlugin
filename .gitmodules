@@ -1,0 +1,3 @@
+[submodule "extensions/plugin"]
+	path = extensions/plugin
+	url = https://github.com/SnowZhang816/plugin.git
