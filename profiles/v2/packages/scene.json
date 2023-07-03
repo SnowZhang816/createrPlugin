@@ -22,8 +22,26 @@
   "camera-infos": {
     "f46876e4-e81b-4931-b493-6d367be385e7": {
       "position": {
-        "x": 9201.738117975427,
-        "y": 867.7489297038437,
+        "x": 522,
+        "y": 315,
+        "z": 5000
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "viewCenter": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "aaa46f03-d0aa-4f2a-8e5c-8d79ef0fd858": {
+      "position": {
+        "x": 524.5,
+        "y": 196.5,
         "z": 5000
       },
       "rotation": {
@@ -40,7 +58,7 @@
     }
   },
   "camera-uuids": [
-    "f46876e4-e81b-4931-b493-6d367be385e7"
+    "aaa46f03-d0aa-4f2a-8e5c-8d79ef0fd858"
   ],
   "camera": {
     "fov": 45,
@@ -59,5 +77,18 @@
     "near2D": 1,
     "wheelSpeed2D": 6,
     "size": "__default_design__"
+  },
+  "float-window": {
+    "position": {
+      "cc": {
+        "Camera": {
+          "dock": false,
+          "top": null,
+          "bottom": 10,
+          "left": null,
+          "right": 10
+        }
+      }
+    }
   }
 }
